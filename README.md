@@ -1,2 +1,2 @@
-# ruby-training
-Entrainement sur Ruby
+# Ruby
+exercices ruby
